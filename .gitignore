@@ -1,0 +1,44 @@
+# .gitignore
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# 项目特定
+config/user_paths.local.json
+config/dev_paths.local.json
+real main/
+venv/
+md/
+*.log
+*.bin  # 游戏文件
+personal_total.bin
+trainer_poke_*.bin
+
+# IDE
+.vscode/
+.idea/
+.trae/
+*.swp
+*.swo
+*~
+
+# 操作系统
+.DS_Store
+Thumbs.db

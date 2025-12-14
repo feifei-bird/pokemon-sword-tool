@@ -1,0 +1,7 @@
+requests	用于网络抓取能力与说明页面（catch_ability.py:1）
+beautifulsoup4	HTML解析（bs4），配合 requests 解析网页（catch_ability.py:2）
+PyInstaller	用于将项目打包为可执行文件（build.py:1）
+
+说明：
+- 以上为非 Python 标准库的第三方依赖；其它模块如 tkinter、json、os、re、struct、typing、collections 等均为标准库。
+- 主程序 Pokemon.py 本身不依赖第三方库；但仓库内工具脚本涉及上述依赖。

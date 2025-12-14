@@ -1,0 +1,3 @@
+    "trainer_poke_dir": "右键->打开mod文件夹(用这个至少知道pkNX吧)/0100ABF008968000/romfs/bin/trainer/trainer_poke",
+    "personal_total_bin_path": "右键->转储RomFS->Base(基础)->Full(完整)这个是原版的/dump/0100ABF008968000/romfs/bin/pml/personal/personal_total.bin",
+    "main_file_path": "对着游戏右键然后点存档位置就能知道了/main",
